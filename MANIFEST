@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/PerlIO/via/PrepareCP1251.pm
+svn-commit.tmp
+t/author-critic.t
+t/release-pod-coverage.t

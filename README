@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution PerlIO-via-PrepareCP1251,
+version 0.01:
+
+  prepare unicode stream to be encoded as cp1251
+
+This software is copyright (c) 2011 by liosha.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+

@@ -1,0 +1,10 @@
+initial upload
+
+--This line, and those below, will be ignored--
+
+A    dist.ini
+A    t
+A    lib
+A    lib/PerlIO
+A    lib/PerlIO/via
+A    lib/PerlIO/via/PrepareCP1251.pm
